@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{91A18412-433A-3B68-BD39-18A485B05436}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "BriceBatteryCollec",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
